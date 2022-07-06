@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![HEADER_GITHUB-removebg-preview](https://user-images.githubusercontent.com/53941078/125660385-8bab782a-2445-4457-87b1-ccc6ae91e85a.png)
-
 ### Who am I?
 
 My name is Giovanna Trigueiro, I'm from Paraíba,Brasil and I'm a Computer Science student at Paraíba's State University(UEPB) and Law Student at UNIFIP(Patos's University Center). Currently i'm studying Web Development, Data Science and Machine Learning. Feel free to check my profile on social media.
