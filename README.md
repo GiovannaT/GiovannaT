@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-My name is Giovanna Trigueiro, I'm from Paraíba,Brasil and I'm a Computer Science student at Paraíba's State University(UEPB) and Bachelor in Law. Currently i'm studying Web & Mobile Development and Data Science. Feel free to reach me on social media.
+My name is Giovanna Trigueiro, from Paraíba,Brazil. I'm a Comp Sci graduate and Bachelor in Law. Currently i'm studying Web & Mobile Development. Feel free to reach me on social media.
 
 ### 📫 
 [![Github Badge](https://img.shields.io/badge/-Github-bb1853?style=flat-square&logo=Github&logoColor=white&link=https://github.com/giovannat)](https://github.com/giovannat)
