@@ -1,8 +1,8 @@
-## Well, hello there👋
+## Hello there👋
 
 ### Who am I?
 
-My name is Giovanna Trigueiro, from Paraíba, Brazil. I'm a Comp Sci graduate and Bachelor in Law. Avid learner, curious and passionate about technologies & geek/nerd universe. Feel free to reach me on social media.
+My name is Giovanna Trigueiro, from Paraíba, Brazil. I'm a Comp Sci graduate and Bachelor in Law, master's degree student in Software Engineer. Avid learner, curious and passionate about technologies & geek/nerd universe. Feel free to reach me on social media.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GiovannaT&theme=bear)](https://git.io/streak-stats)
 
